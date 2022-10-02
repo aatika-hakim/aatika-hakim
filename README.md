@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://aatika-hakim.github.io/portfolio-website/](https://aatika-hakim.github.io/portfolio-website/)
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **aatikahakim90@gmail.com**
