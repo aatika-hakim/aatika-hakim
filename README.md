@@ -1,3 +1,6 @@
+import React from "react";
+
+const Readme = () => {
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg)](https://aatika-hakim.io)
 <h1 align="center">Hi 👋, I'm Aatika Hakim</h1>
 <h3 align="center">A passionate web developer with solid understanding of development from Pakistan</h3>
@@ -26,4 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aatika-hakim&show_icons=true&locale=en" alt="aatika-hakim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatika-hakim&" alt="aatika-hakim" /></p>
+}
+export default Readme;
+
 
