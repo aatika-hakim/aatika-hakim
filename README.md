@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatika-hakim&label=Profile%20views&color=0e75b6&style=flat" alt="aatika-hakim" /> </p>
 
-- 🔭 I’m currently working on **MERN Project**
-
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **MERN**
