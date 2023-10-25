@@ -17,6 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aatika-hakim&show_icons=true&locale=en" alt="aatika-hakim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatika-hakim&" alt="aatika-hakim" /></p>
 
 
