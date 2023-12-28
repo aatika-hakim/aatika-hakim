@@ -1,5 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Aatika</h1>
+<hr/>
+<p> I'm a Software Engineer with a keen interest in crafting innovative and user-friendly web applications. My expertise lies in JavaScript, node.js, React, and Next.js.
+
+I possess a robust grasp of the software development life cycle and have contributed to a spectrum of projects, ranging from straightforward websites to intricate web applications. My commitment to staying abreast of the latest technologies and industry trends underscores my dedication to delivering top-notch solutions to clients.
+
+Beyond my technical proficiency, I embrace a collaborative ethos, placing a premium on communication. I firmly believe that collaborative efforts with clients and colleagues yield optimal outcomes, and I actively seek and appreciate feedback and suggestions.
+
+During my leisure time, I immerse myself in the exploration of emerging technologies. I'm constantly on the lookout for fresh challenges and growth opportunities, eagerly anticipating what the future has in store for my development journey.</p>
 
 <h3 align="left">Connect with me:</h3>
 
