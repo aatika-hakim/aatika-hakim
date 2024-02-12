@@ -5,8 +5,6 @@
 
 I know a lot about how to build web apps from scratch and have worked on all kinds of projects, from simple websites to really complex apps. I always keep up with the newest technologies and trends in the industry to make sure I'm delivering the best solutions to my clients.
 
-But it's not just about the technical stuff for me. I like working with others and think that when we all work together, we get the best results. I'm all about communication and love getting feedback from clients and colleagues—it helps make everything better.
-
 In my free time, I like to explore new technologies and always look for new challenges to grow and learn. I'm excited to see what the future holds for my career in development!</p>
 
 <h3 align="left">Connect with me:</h3>
