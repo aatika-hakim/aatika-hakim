@@ -3,7 +3,7 @@
 <hr/>
 <p> I'm a Software Engineer who loves creating cool and user-friendly websites. I'm really good at using JavaScript, React, and Next.js to make awesome web applications.
 
-I know a lot about how to build software from start to finish and have worked on all kinds of projects, from simple websites to really complex apps. I always keep up with the newest technologies and trends in the industry to make sure I'm delivering the best solutions to my clients.
+I know a lot about how to build web apps from scratch and have worked on all kinds of projects, from simple websites to really complex apps. I always keep up with the newest technologies and trends in the industry to make sure I'm delivering the best solutions to my clients.
 
 But it's not just about the technical stuff for me. I like working with others and think that when we all work together, we get the best results. I'm all about communication and love getting feedback from clients and colleagues—it helps make everything better.
 
