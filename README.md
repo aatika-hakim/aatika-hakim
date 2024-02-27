@@ -1,11 +1,16 @@
 
 <h1 align="center">Hi, I'm Aatika</h1>
 <hr/>
-<p> I'm a Software Engineer who loves creating cool and user-friendly websites. I'm really good at using JavaScript, React, and Next.js to make awesome web applications.
+<p> I'm a Frontend Web developer. I specialize in frontend development and learning backend as well, with expertise in React.js, Next.js, HTML, CSS, JavaScript, and Tailwind CSS.
 
-I know a lot about how to build web apps from scratch and have worked on all kinds of projects, from simple websites to really complex apps. I always keep up with the newest technologies and trends in the industry to make sure I'm delivering the best solutions to my clients.
+<h3><b>Expertise:</b></h3>
+__React.js and Next.js: Proficient in building responsive and interactive web applications.
+__Front-End Technologies:  HTML, CSS, and JavaScript.
+__Tailwind CSS: Efficiently designs and styles web interfaces, optimizing development.
 
-In my free time, I like to explore new technologies and always look for new challenges to grow and learn. I'm excited to see what the future holds for my career in development!</p>
+In my impactful career, I've worked on diverse projects. I'm committed to staying current with web development trends and continuously improving my skills.
+
+I'm passionate about creating exceptional web experiences and am eager to tackle new challenges in web development. My goal is to contribute my expertise to projects that push boundaries and make a positive impact.</p>
 
 <h3 align="left">Connect with me:</h3>
 
