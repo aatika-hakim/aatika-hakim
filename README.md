@@ -4,8 +4,11 @@
 <p> I'm a Frontend Web developer. I specialize in frontend development and learning backend as well, with expertise in React.js, Next.js, HTML, CSS, JavaScript, and Tailwind CSS.
 
 <h3><b>Expertise:</b></h3>
-__React.js and Next.js: Proficient in building responsive and interactive web applications.
+
+__React.js and Next.js: Proficient in building responsive and interactive web applications. 
+
 __Front-End Technologies:  HTML, CSS, and JavaScript.
+
 __Tailwind CSS: Efficiently designs and styles web interfaces, optimizing development.
 
 In my impactful career, I've worked on diverse projects. I'm committed to staying current with web development trends and continuously improving my skills.
