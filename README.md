@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Aatika</h1>
 <hr/>
-<p> I'm a Frontend Web developer. I specialize in frontend development and learning backend as well, with expertise in React.js, Next.js, HTML, CSS, JavaScript, and Tailwind CSS.
+<p> I'm a Frontend Web developer. I have specialized in Frontend Web Development and learning Backend as well. I am skilled in React.js, Next.js, HTML, CSS, JavaScript, and Tailwind CSS.
 
 <h3><b>Expertise:</b></h3>
 
