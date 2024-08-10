@@ -17,8 +17,10 @@ I'm passionate about creating exceptional web experiences and am eager to tackle
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbb">aatikahakim90@gmail.com</a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aatika-hakim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aatika-hakim/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/aatikah.h.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aatikah.h.9" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbb">aatikahakim90@gmail.com</a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aatika-hakim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aatika-hakim/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/aatikah.h.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aatikah.h.9" height="30" width="40" /></a><a href=""></a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/freelancer.svg" alt="https://www.freelancer.com/u/aatikadev" height="30" width="40" />
+
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left" style="margin-bottom: 10px; background: #fff;">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
