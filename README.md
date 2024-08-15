@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi, I'm Aatika</h1>
 <hr/>
-<p>I am a Full Stack Developer with extensive experience in modern web development. My expertise spans both frontend and backend technologies, enabling me to build robust, scalable applications that deliver exceptional user experiences. Additionally, I specialize in creating custom GPT models, designing AI solutions that address specific requirements and enhance overall functionality.</p>
+<p>
+I am a Full Stack Developer with extensive experience in modern web development. My expertise spans both frontend and backend technologies, enabling me to build robust, scalable applications that deliver exceptional user experiences. Additionally, I specialize in creating custom GPT models, designing AI solutions that address specific requirements and enhance overall functionality.</p>
 
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbb">aatikahakim90@gmail.com</a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aatika-hakim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aatika-hakim/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/aatikah.h.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aatikah.h.9" height="30" width="40" /></a><a href=""></a>
 
