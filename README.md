@@ -3,15 +3,8 @@
 <hr/>
 <p>I am a Full Stack Developer with extensive experience in modern web development. My expertise spans both frontend and backend technologies, enabling me to build robust, scalable applications that deliver exceptional user experiences. Additionally, I specialize in creating custom GPT models, designing AI solutions that address specific requirements and enhance overall functionality.</p>
 
-<h1>Technical Skills:</h1>
-<ul>
-  <li><h3>➔ Backend Technologies:</h3> Python, FastAPI, PostgreSQL</li>
-  <li><h3>➔ Frontend Technologies:</h3> HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript</li>
-<li><h3>➔ Frontend Libraries & Frameworks:</h3> React.js, Next.js</li>
-</ul>
-
-<h1>My Expertise:</h1>
-<ul>
+<h3>My Expertise:</h3>
+<ul list="none">
   <li><h3>➔ Custom GPT Development: </h3> Skilled in creating tailored GPT models.</li>
   <li><h3>➔ Web Application Development: </h3> Expert in building responsive, dynamic web apps.</li>
 <li><h3>➔ Web Optimization: </h3> Proficient in enhancing and refining web app performance.</li>
