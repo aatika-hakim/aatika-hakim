@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://pngtree.com/freebackground/illustration-of-a-3d-render-showcasing-a-concept-of-web-ui-ux-design-development-seo-optimization-and-marketing-for-web-building_13289194.html)"  />
-</div>
-
 <h1 align="center">Hi, I'm Aatika</h1>
 <hr/>
 <p>
@@ -61,6 +57,10 @@ I am a Full Stack Developer with extensive experience in modern web development.
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatika-hakim&show_icons=true&locale=en&layout=compact" alt="aatika-hakim" /></p>
