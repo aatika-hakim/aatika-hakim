@@ -22,8 +22,7 @@ I am a Full Stack Developer with extensive experience in modern web development.
  **CLOUD APPLIED NATIVE AI** 
 
 ---
-### 💻 Languages and Tools:
-<hr/>
+### Languages and Tools:
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
