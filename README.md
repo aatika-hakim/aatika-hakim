@@ -13,8 +13,8 @@ I am a Full Stack Developer with extensive experience in modern web development.
   <a href="https://www.linkedin.com/in/aatika-hakim/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://www.freelancer.pk/get/aatikadev?f=give">
-    <img src="https://img.shields.io/badge/Freelancer-0000FF.svg?&style=for-the-badge&logo=freelancer&logoColor=white" alt="freelancer"/>
+  <a href="https://www.freelancer.pk/u/aatikadev">
+    <img src="https://img.shields.io/badge/Freelancer-87CEEB.svg?&style=for-the-badge&logo=freelancer&logoColor=white" alt="freelancer"/>
   </a>
 </p>
 
