@@ -13,9 +13,6 @@ I am a Full Stack Developer with extensive experience in modern web development.
   <a href="https://github.com/aatika-hakim">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="https://www.freelancer.pk/u/aatikadev">
-    <img src="https://img.shields.io/badge/Freelancer-87CEEB.svg?&style=for-the-badge&logo=freelancer&logoColor=white" alt="freelancer"/>
-  </a>
 </p>
 
 ###  Currently Learning:
