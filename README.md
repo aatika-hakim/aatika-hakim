@@ -10,9 +10,6 @@ I am a Full Stack Developer with extensive experience in modern web development.
   <a href="https://www.linkedin.com/in/aatika-hakim/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="mailto:aatikahakim90@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
 </p>
 
 ###  Currently Learning:
