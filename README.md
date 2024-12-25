@@ -37,6 +37,8 @@ I am a Full Stack Developer with extensive experience in modern web development.
   <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-00000C?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
   <img alt="Kong" src="https://img.shields.io/badge/Kong-008080?style=for-the-badge&logo=kong&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-818589?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=white"/>
 </p>
 
 <hr/>
