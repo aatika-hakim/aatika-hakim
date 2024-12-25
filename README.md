@@ -12,8 +12,8 @@ I am a Full Stack Developer with extensive experience in modern web development.
   </a>
 </p>
 
-###  Currently Learning:
- **CLOUD APPLIED NATIVE AI** 
+## Currently Learning:
+ **AGENTIC AI ** 
 
 ---
 ### Languages and Tools:
