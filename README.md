@@ -13,7 +13,7 @@ I am a Full Stack Developer with extensive experience in modern web development.
 </p>
 
 ## Currently Learning:
- **AGENTIC AI ** 
+ **AGENTIC AI** 
 
 ---
 ### Languages and Tools:
